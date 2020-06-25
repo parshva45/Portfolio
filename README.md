@@ -1,3 +1,3 @@
 # Portfolio
 
-Find my Portfolio [here](https://parshva.me)
+Find my Portfolio [here](https://parshva45.github.io/Portfolio/)
